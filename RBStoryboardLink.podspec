@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'RBStoryboardLink'
-  s.version      = '0.1.1'
+  s.version      = '0.1.2'
   s.summary      = 'Makes transitioning between storyboards possible.'
   s.homepage     = 'https://github.com/rob-brown/RBStoryboardLink'
   s.license      = {
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   }
   s.author       = 'Robert Brown'
   s.source       = {
-      :git => 'https://github.com/rob-brown/RBStoryboardLink.git',
+      :git => 'https://github.com/zhfish/RBStoryboardLink.git',
       :tag => s.version
   }
   s.platform     = :ios, '7.0'
